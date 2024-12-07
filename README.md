@@ -11,4 +11,7 @@ new app -> https://github.com/settings/applications/new
 
 http://localhost:8080/login/oauth2/code/google
 
+## Github   
+http://localhost:800/login/oauth2/code/github
+
 https://github.com/TwiN/spring-security-oauth2-client-example
